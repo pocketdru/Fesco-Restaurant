@@ -1,0 +1,14 @@
+.main   {
+    background-image: url("./max_fresh-baguette-morning-breakfast-picjumbo-com.png");
+    background-repeat: no-repeat;
+    height: 750px;
+    width: 1400px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main > .container {
+    background-color: rgba(0, 0, 0, 0.4);
+}

@@ -1,0 +1,86 @@
+.OurMenu {
+    height: 1460px;
+    background-color: #141723;
+}
+
+.OurMenu .container {
+    padding-top: 75px;
+}
+
+.OurMenu h3 {
+    height: 63px;
+    color: #bf9e7b;
+    font-family: Yesteryear;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+}
+
+.OurMenu .lead-2 {
+    text-align: center;
+}
+
+.pizza h5 {
+    height: 17px;
+    color: #bf9e7b;
+    font-family: Raleway;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 15.8px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 75px;
+}
+
+.column {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-item {
+    width: 415px;
+}
+
+.OurMenu .item-name {
+    height: 11px;
+    color: #ffffff;
+    font-family: Raleway;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.OurMenu .item-description {
+    color: #ffffff;
+    font-family: Vollkorn;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 25px;
+    display: block;
+    width: 295px;
+    float: left;
+}
+
+.OurMenu .item-price {
+    color: #bf9e7b;
+    /* width: 30px; */
+    font-family: Raleway;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 36.06px;
+    /* display: block; */
+    margin-left: 65px;
+}
+
+.menu-item {
+    margin-bottom: 40px;
+}
+
+.view-all-menu {
+    width: 200px;
+    height: 55px;
+    background-color: #be9d7a;
+    margin: 20px auto;
+    display: block;
+}

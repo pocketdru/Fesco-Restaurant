@@ -1,0 +1,61 @@
+.specialities {
+    height: 600px;
+    width: 1400px;
+    background-image: url("./sweet-morning-breakfast-picjumbo-com.png");
+    background-repeat: no-repeat;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.specialities > .container {
+    width: inherit;
+    height: inherit;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding-top: 70px;
+}
+
+.specialities h3 {
+    height: 63px;
+    color: #ffffff;
+    font-family: Yesteryear;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+}
+
+.specialities .lead-2 {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.gallery-spec .card {
+    width: 250px;
+    height: 250px;
+}
+
+.gallery-spec {
+    display: flex;
+    justify-content: space-between;
+}
+
+.gallery-spec .card-img-top {
+    width: 250px;
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.card-title {
+    width: 200px;
+    height: 15px;
+    color: #bf9e7b;
+    font-family: Vollkorn;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 27px;
+}

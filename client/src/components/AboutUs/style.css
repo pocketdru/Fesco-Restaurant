@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Yesteryear');
+
+.about-us > .container {
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    justify-content: space-between
+}
+
+.about-us {
+    height: 883px;
+}
+
+.about-text {
+    width: 450px;
+    padding-top: 117px;
+    margin-right: 105px;
+}
+
+.about-text h3 {
+    width: 173px;
+    height: 50px;
+    color: #bf9e7b;
+    font-family: Yesteryear;
+    font-size: 56px;
+    font-weight: 400;
+    margin: 0 auto 40px auto;
+}
+
+.about-text p {
+    font-family: "Raleway";
+    margin: 20px 0px;
+    line-height: 32px;
+    text-align: center;
+}
+
+.about-info {
+    height: 870px;
+}
+
+.about-contacts {
+    width: 380px;
+    height: 420px;
+    background-color: #141723;
+    padding: 33px;
+    position: relative;
+    top: -210px;
+}
+
+.about-contacts h4 {
+    width: 84px;
+    height: 17px;
+    color: #bf9e7b;
+    font-family: Vollkorn;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 27px;
+    margin-bottom: 15px;
+}
+
+.about-contacts .plainText {
+    width: 313px;
+    height: 35px;
+    color: #ffffff;
+    font-family: Raleway;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 21.28px;
+}
+
+.upper {
+    height: 11px;
+    color: #ffffff;
+    font-family: Raleway;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 21.28px;
+    text-transform: uppercase;
+}
+
+.address {
+    height: 12px;
+    color: #ffffff;
+    font-family: Vollkorn;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.view-map {
+    width: 54px;
+    height: 12px;
+    color: #bf9e7b;
+    font-family: Vollkorn;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 27px;
+
+}
+
+.time {
+    width: 316px;
+    height: 12px;
+    color: #ffffff;
+    font-family: Vollkorn;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 27px;    
+}
+
+ .reservation {
+    margin: 0 auto;
+    display: block;
+    width: 171px;
+    height: 43px;
+    border: 1px solid #be9d7a;
+    color: #ffffff;
+    font-family: Raleway;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 21.28px;
+    margin-top: 25px;
+}
+
+.about-img {
+    position: relative;
+    top: -180px;
+}

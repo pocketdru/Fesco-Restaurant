@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Yesteryear');
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-family: "Yesteryear";
+    width: 75px;
+    height: 37px;
+    color: #ffffff;
+    font-size: 37px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.logo:hover {
+        color: #bf9e7b;
+}
+
+.navbar-menu ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.navbar-menu li {
+    margin: 0px 5px;
+}
+
+.navbar-menu a {
+    color: #ffffff;
+}
+
+.navbar-menu a:hover {
+    color: #bf9e7b;
+    text-decoration: none;
+}
+
