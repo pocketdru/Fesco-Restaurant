@@ -1,0 +1,41 @@
+.Footer {
+    height: 219px;
+    background-color: #141723;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Footer > .container {
+    width: inherit;
+    height: inherit;
+    padding: 10px 25px;
+}
+
+.Footer .contacts {
+    display: flex;
+}
+
+.Footer .list-group-item {
+    background-color: inherit;
+    width: 386px;
+    height: 12px;
+    color: #ffffff;
+    font-family: Vollkorn;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 27px;
+    border: none;
+}
+
+.Footer p {
+    width: 235px;
+    height: 14px;
+    color: #bf9e7b;
+    font-family: Raleway;
+    font-size: 15px;
+    font-weight: 500;
+    padding-top: 40px;
+}
+

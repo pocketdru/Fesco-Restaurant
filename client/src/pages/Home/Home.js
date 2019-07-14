@@ -5,6 +5,8 @@ import AboutUs from "../../components/AboutUs";
 import Specialities from "../../components/Specialities";
 import OurMenu from "../../components/OurMenu";
 import Reservation from "../../components/Reservation";
+import Footer from "../../components/Footer";
+import OrderBtn from "../../components/OrderBtn";
 import "./style.css";
 
 
@@ -26,10 +28,15 @@ function Home() {
             </div>
             <div className="OurMenu">
                 <OurMenu/>
+                <OrderBtn/>
             </div>
             <div className="Reservation">
                 <Reservation/>
             </div>
+            <div className="Footer">
+                <Footer/>
+            </div>
+
         </div>
     )
 }

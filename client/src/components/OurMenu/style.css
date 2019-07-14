@@ -3,7 +3,7 @@
     background-color: #141723;
 }
 
-.OurMenu .container {
+.OurMenu > .container {
     padding-top: 75px;
 }
 
@@ -75,12 +75,4 @@
 
 .menu-item {
     margin-bottom: 40px;
-}
-
-.view-all-menu {
-    width: 200px;
-    height: 55px;
-    background-color: #be9d7a;
-    margin: 20px auto;
-    display: block;
 }

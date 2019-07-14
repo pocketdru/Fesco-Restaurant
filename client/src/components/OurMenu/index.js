@@ -1,4 +1,5 @@
 import React from "react";
+import OrderBtn from "../OrderBtn";
 import "./style.css";
 
 function OurMenu() {
@@ -102,7 +103,10 @@ function OurMenu() {
                     </div>
                 </div>
             </div>
-            <button type="button" className="btn btn-primary btn-lg view-all-menu">All view menu <i className="fas fa-caret-right"></i></button>
+
+            {/* <Link to="/order">
+                <button type="button" className="btn btn-primary btn-lg view-all-menu">Order & view all menu <i className="fas fa-caret-right"></i></button>
+            </Link> */}
         </div>
     )   
 }
