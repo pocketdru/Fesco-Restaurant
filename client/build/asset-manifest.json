@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b01234bf.chunk.css",
+    "main.js": "/static/js/main.beaebbd7.chunk.js",
+    "main.js.map": "/static/js/main.beaebbd7.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.b1e99726.chunk.js": "/static/js/2.b1e99726.chunk.js",
+    "static/js/2.b1e99726.chunk.js.map": "/static/js/2.b1e99726.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9ac84c12406cd09766ac17635f54ce88.js": "/precache-manifest.9ac84c12406cd09766ac17635f54ce88.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b01234bf.chunk.css.map": "/static/css/main.b01234bf.chunk.css.map",
+    "static/media/grilled-salmon-steak-is-ready-picjumbo-com.png": "/static/media/grilled-salmon-steak-is-ready-picjumbo-com.ec060802.png",
+    "static/media/style.css": "/static/media/sweet-morning-breakfast-picjumbo-com.10f130ae.png",
+    "static/media/preparing-salami-pizza-picjumbo-com.png": "/static/media/preparing-salami-pizza-picjumbo-com.d77b9c73.png",
+    "static/media/preparing-salmon-steak-close-up-picjumbo-com.png": "/static/media/preparing-salmon-steak-close-up-picjumbo-com.0cc8111f.png",
+    "static/media/salad-bowl-with-mozzarella-and-cherry-tomatoes-picjumbo-com.png": "/static/media/salad-bowl-with-mozzarella-and-cherry-tomatoes-picjumbo-com.95d65351.png",
+    "static/media/yummy-chocolate-waffles-from-open-air-food-market-picjumbo-com.png": "/static/media/yummy-chocolate-waffles-from-open-air-food-market-picjumbo-com.86ec53b3.png"
+  }
+}
